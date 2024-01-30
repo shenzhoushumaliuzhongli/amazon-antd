@@ -62,3 +62,5 @@ Object.defineProperty(global.window.console, 'error', {
     errorLog(...rest);
   },
 });
+
+
